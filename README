@@ -1,0 +1,9 @@
+An ancient implementation of the Snake game. It was originally programmed in the early
+2002 or so, and was meant to run under DOS with the Allegro library.
+
+Incomplete but kinda fun none the less... originally it was planned to run it on
+embedded devices with touch screens (which emulate mouse clicks) so a mouse is
+required.
+
+It's doubtful if I will ever finish this.
+
